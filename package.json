@@ -1,0 +1,17 @@
+{
+  "name": "warehouse-inventory",
+  "version": "1.0.0",
+  "description": "Warehouse Inventory Management System",
+  "scripts": {
+    "start": "cmd /c run.cmd",
+    "dev": "cmd /c run.cmd",
+    "build": "cmd /c run.cmd"
+  },
+  "keywords": [
+    "warehouse",
+    "inventory",
+    "java"
+  ],
+  "author": "",
+  "license": "ISC"
+}
